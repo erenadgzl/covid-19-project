@@ -1,0 +1,23 @@
+{
+  "name": "corona-app",
+  "version": "1.0.0",
+  "description": "My divine Nuxt.js project",
+  "author": "Eren Adiguzel",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.9.5",
+    "leaflet": "^1.6.0",
+    "nuxt": "^2.0.0",
+    "nuxt-leaflet": "0.0.21",
+    "vue2-leaflet": "^2.5.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0"
+  }
+}
